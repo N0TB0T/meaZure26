@@ -12,6 +12,10 @@
 2. Unzip it — you'll get `sketch-meazure.sketchplugin`
 3. Double-click the `.sketchplugin` file — Sketch will install it automatically
 
+## Automatic Updates
+
+Once installed, Sketch will automatically notify you when a new version is available and offer to install it — no manual download required.
+
 ## Version History
 
 ### 3.4.2 (2026-05-20)
