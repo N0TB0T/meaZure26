@@ -6,6 +6,9 @@
     <description>Make it a fun to create spec for developers and teammates</description>
     <language>en</language>
     <item>
+      <enclosure url="https://github.com/N0TB0T/meaZure26/raw/main/SketchMeaZure-3.4.6-20260521.zip" sparkle:version="3.4.6"/>
+    </item>
+    <item>
       <enclosure url="https://github.com/N0TB0T/meaZure26/raw/main/SketchMeaZure-3.4.4-20260520.zip" sparkle:version="3.4.4"/>
     </item>
     <item>
