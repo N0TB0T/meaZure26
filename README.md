@@ -1,6 +1,6 @@
 # Sketch MeaZure
 
-**Spec Exports Only** — A Sketch plugin for exporting design specs.
+**Nur Spec-Exports** — Ein Sketch-Plugin zum Exportieren von Design-Specs.
 
 ## Download
 
@@ -8,19 +8,19 @@
 
 ## Installation
 
-1. Download the zip file above
-2. Unzip it — you'll get `sketch-meazure.sketchplugin`
-3. Double-click the `.sketchplugin` file — Sketch will install it automatically
+1. Zip-Datei herunterladen
+2. Entzippen — es erscheint `sketch-meazure.sketchplugin`
+3. Doppelklick auf die `.sketchplugin`-Datei — Sketch installiert das Plugin automatisch
 
-## Automatic Updates
+## Automatische Updates
 
-Once installed, Sketch will automatically notify you when a new version is available and offer to install it — no manual download required.
+Nach der Installation benachrichtigt Sketch automatisch, wenn eine neue Version verfügbar ist, und bietet die Installation an — kein manueller Download nötig.
 
-## Version History
+## Versionshistorie
 
 ### 3.4.6 (2026-05-21)
 
-- **1× PNG direkt im Exportordner** (root), nicht mehr in `preview/`; retina (`-2x`) bleibt in `preview/`
+- **1× PNG direkt im Exportordner** (root), nicht mehr in `preview/`; Retina (`-2x`) bleibt in `preview/`
 
 ### 3.4.5 (2026-05-20)
 
@@ -32,14 +32,14 @@ Once installed, Sketch will automatically notify you when a new version is avail
 
 ### 3.4.2 (2026-05-20)
 
-- **Windows-compatible filenames**: Umlauts transliterated (ä→ae, Ä→Ae, ö→oe, Ö→Oe, ü→ue, Ü→Ue, ß→ss), `@` preserved, original casing kept
-- **Preview images**: 1× primary + 2× retina (`-2x` suffix), both in the same `preview/` folder
-- **Independent Borders** (Sketch 2026.1+): per-side thickness shown in spec; only active sides displayed (e.g. `L:4px`), uniform borders shown without prefix
+- **Windows-kompatible Dateinamen**: Umlaute transliteriert (ä→ae, Ä→Ae, ö→oe, Ö→Oe, ü→ue, Ü→Ue, ß→ss), `@` erhalten, Originalschreibweise beibehalten
+- **Vorschaubilder**: 1× nativ + 2× Retina (`-2x`-Suffix), beide im gleichen `preview/`-Ordner
+- **Unabhängige Rahmenbreiten** (Sketch 2026.1+): seitenweise Dicke in der Spec; nur aktive Seiten angezeigt (z.B. `L:4px`), rundum-Rahmen ohne Präfix
 
 ### 3.3.5 (2026-04-17)
 
-- Fix: CSS attribute export compatible with Sketch 2025.3+ (`CSSAttributeString`)
+- Fix: CSS-Attribut-Export kompatibel mit Sketch 2025.3+ (`CSSAttributeString`)
 
 ### 3.3.4 (2026-03-02)
 
-- see [SketchMeaZure-3.3.4-20260302.zip](SketchMeaZure-3.3.4-20260302.zip)
+- siehe [SketchMeaZure-3.3.4-20260302.zip](SketchMeaZure-3.3.4-20260302.zip)
