@@ -4,7 +4,7 @@
 
 ## Download
 
-[SketchMeaZure-3.4.6-20260521.zip](https://github.com/N0TB0T/meaZure26/raw/main/SketchMeaZure-3.4.6-20260521.zip)
+[SketchMeaZure-3.4.7-20260521.zip](https://github.com/N0TB0T/meaZure26/raw/main/SketchMeaZure-3.4.7-20260521.zip)
 
 ## Installation
 
@@ -17,6 +17,10 @@
 Nach der Installation benachrichtigt Sketch automatisch, wenn eine neue Version verfügbar ist, und bietet die Installation an — kein manueller Download nötig.
 
 ## Versionshistorie
+
+### 3.4.7 (2026-05-21)
+
+- Fix: `CSSAttributes`-Fehler für bestimmte Layer-Typen (CocoaScript `typeof`-Check unzuverlässig → try-catch)
 
 ### 3.4.6 (2026-05-21)
 
