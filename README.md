@@ -4,7 +4,7 @@
 
 ## Download
 
-[SketchMeaZure-3.4.2-20260520.zip](SketchMeaZure-3.4.2-20260520.zip)
+[SketchMeaZure-3.4.6-20260521.zip](SketchMeaZure-3.4.6-20260521.zip)
 
 ## Installation
 
@@ -17,6 +17,18 @@
 Once installed, Sketch will automatically notify you when a new version is available and offer to install it — no manual download required.
 
 ## Version History
+
+### 3.4.6 (2026-05-21)
+
+- **1× PNG direkt im Exportordner** (root), nicht mehr in `preview/`; retina (`-2x`) bleibt in `preview/`
+
+### 3.4.5 (2026-05-20)
+
+- Bei einzelnem Artboard-Export: Artboard-Name als Vorschlag für den Exportordner (statt Dokumentname)
+
+### 3.4.4 (2026-05-20)
+
+- Fix: Vorschaubild im Viewer war unscharf — Viewer nutzt jetzt die 2× Retina-Version
 
 ### 3.4.2 (2026-05-20)
 
