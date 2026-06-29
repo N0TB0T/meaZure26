@@ -1,7 +1,7 @@
 [
   {
     "id": "m-2026-06-27-appcast",
-    "task": "appcast.xml <link> zeigt aufs PRIVATE meaZure-Repo; public Auto-Update-Feed muss auf public meaZure26 verweisen. Außerdem: ausgelieferte Bundles überspringen v3.4.5 (3.4.4→3.4.6).",
+    "task": "`appcast.xml` <link> zeigt aufs PRIVATE meaZure-Repo; der public Auto-Update-Feed muss auf public meaZure26 verweisen. Außerdem überspringen die ausgelieferten Bundles `v3.4.5` (3.4.4 → 3.4.6).",
     "why": "Auto-Update bricht für Nutzer",
     "status": "open"
   }
